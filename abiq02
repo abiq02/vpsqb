@@ -1,1 +1,2 @@
-abiq02
+deb http://mirrors.nhanhoa.com/ubuntu/ focal main
+deb-src http://mirrors.nhanhoa.com/ubuntu/ focal main
